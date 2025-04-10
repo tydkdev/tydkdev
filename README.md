@@ -10,6 +10,6 @@
 
 <p align="justify">I am a full-stack software engineer with 10 years of coding experience.</p>
 
-<p align="justify">I have been working as a full-stack engineer since graduation from the university and started as a FrontEnd developer making simple static web pages and expanding my knowledge over time. While working as a software engineer I paved my full-stack engineer career and demonstrated my knowledge and intelligence by building more than 20 websites utilizing various modern web technologies such as MERN/Python/Vue/Angular stack.</p>
+<p align="justify">I am a professional Software Engineer with 10+ years of experience and a lifelong passion for technology. I possess a deep proficiency in C#/.NET and JavaScript technologies such as ASP.NET Core, VB.NET, LINQ, Entity, Node.js, React/React Native/Redux, Nest.js, Next.js, Angular, and Vue.js, along with significant experience in Python, Java, and AI/ML. My expertise extends across full stack development, microservices architecture, and cloud computing, making me adept at delivering high-quality, scalable solutions.</p>
 
 <p align="justify">My goal with coding is to benefit people and their businesses with my tools and applications. I enjoy being able to create something outstanding that implements market needs and trends. </p>
